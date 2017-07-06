@@ -73,6 +73,9 @@
 }
 .button {
 }
+.link_button {
+  color:#169BD5;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -94,6 +97,9 @@
 }
 .text_field {
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
 ._水平线 {
